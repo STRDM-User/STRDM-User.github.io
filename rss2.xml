@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>さくら荘のタイズ</title>
+    <link>https://blog.stardream.online/</link>
+    
+    <image>
+      <url>https://blog.stardream.online/icon.png</url>
+      <title>さくら荘のタイズ</title>
+      <link>https://blog.stardream.online/</link>
+    </image>
+    
+    <atom:link href="https://blog.stardream.online/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 04 May 2024 04:38:05 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.stardream.online/posts/undefined/</link>
+      <guid>https://blog.stardream.online/posts/undefined/</guid>
+      <pubDate>Sat, 04 May 2024 04:38:05 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blog.stardream.online/posts/undefined/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>为Butterfly添加二级跳转页并适配Pjax-safeGo</title>
+      <link>https://blog.stardream.online/posts/safego/</link>
+      <guid>https://blog.stardream.online/posts/safego/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:50:00 GMT</pubDate>
+      
+      <description>添加二级跳转页以增加博客安全度及优化seo</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/hexo/">hexo</category>
+      
+      <category domain="https://blog.stardream.online/tags/butterfly/">butterfly</category>
+      
+      <category domain="https://blog.stardream.online/tags/pjax/">pjax</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/safego/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记 AMAD 使用</title>
+      <link>https://blog.stardream.online/posts/AMAD/</link>
+      <guid>https://blog.stardream.online/posts/AMAD/</guid>
+      <pubDate>Wed, 27 Mar 2024 00:01:38 GMT</pubDate>
+      
+      <description>傻瓜教程第一弹，破解Apple Music DRM</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/Apple-Music/">Apple Music</category>
+      
+      <category domain="https://blog.stardream.online/tags/DRM/">DRM</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%82%BB%E7%93%9C%E6%95%99%E7%A8%8B/">傻瓜教程</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/AMAD/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【施工中】2022 · 41Days 霓虹游记</title>
+      <link>https://blog.stardream.online/posts/2022Japan/</link>
+      <guid>https://blog.stardream.online/posts/2022Japan/</guid>
+      <pubDate>Tue, 10 Jan 2023 11:44:29 GMT</pubDate>
+      
+      <description>趁着还热乎在此记录下刚刚结束的41天霓虹之旅</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E6%B8%B8%E8%AE%B0/">游记</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/%E6%80%BB%E7%BB%93/">总结</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E6%B8%B8%E8%AE%B0/">游记</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC/">圣地巡礼</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E9%9C%93%E8%99%B9/">霓虹</category>
+      
+      <category domain="https://blog.stardream.online/tags/2022-%C2%B7-41Days-%E9%9C%93%E8%99%B9%E6%B8%B8%E8%AE%B0/">2022 · 41Days 霓虹游记</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%BE%85%E8%A1%A5%E5%AE%8C/">待补完</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/2022Japan/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2022年终回顾</title>
+      <link>https://blog.stardream.online/posts/2022/</link>
+      <guid>https://blog.stardream.online/posts/2022/</guid>
+      <pubDate>Sat, 31 Dec 2022 13:53:48 GMT</pubDate>
+      
+      <description>2022一路走来感谢米娜桑的扶持~</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E5%9B%9E%E9%A1%BE/">回顾</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/%E5%9B%9E%E9%A1%BE/">回顾</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E6%80%BB%E7%BB%93/">总结</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E6%8A%BD%E5%A5%96/">抽奖</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/2022/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【施工中】K-ON! 圣地巡礼</title>
+      <link>https://blog.stardream.online/posts/K-ON!/</link>
+      <guid>https://blog.stardream.online/posts/K-ON!/</guid>
+      <pubDate>Thu, 22 Dec 2022 07:11:16 GMT</pubDate>
+      
+      <description>都2022了 还轻音？</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC/">圣地巡礼</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/%E6%B8%B8%E8%AE%B0/">游记</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC/">圣地巡礼</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%BE%85%E8%A1%A5%E5%AE%8C/">待补完</category>
+      
+      <category domain="https://blog.stardream.online/tags/K-ON/">K-ON!</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%EF%BC%81/">轻音少女！</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E4%B8%B0%E4%B9%A1%E7%94%BA/">丰乡町</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/K-ON!/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】程序员需要知道的RAID基本原理</title>
+      <link>https://blog.stardream.online/posts/b700/</link>
+      <guid>https://blog.stardream.online/posts/b700/</guid>
+      <pubDate>Wed, 12 Oct 2022 00:08:43 GMT</pubDate>
+      
+      <description>RAID，全称为redundant array of independent disks，是目前商用服务器常见的磁盘管理技术。</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      <category domain="https://blog.stardream.online/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.stardream.online/tags/BT/">BT</category>
+      
+      <category domain="https://blog.stardream.online/tags/Grafana/">Grafana</category>
+      
+      <category domain="https://blog.stardream.online/tags/Promethus/">Promethus</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/b700/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】漫画论坛大事记-萌享锁帖事件</title>
+      <link>https://blog.stardream.online/posts/1abe/</link>
+      <guid>https://blog.stardream.online/posts/1abe/</guid>
+      <pubDate>Sun, 21 Aug 2022 10:19:05 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E7%93%9C/">瓜</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/%E6%BC%AB%E7%94%BB%E8%AE%BA%E5%9D%9B/">漫画论坛</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E8%90%8C%E4%BA%AB/">萌享</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/1abe/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】要去感受，更要去思考-尝试剖析少歌剧场版全篇</title>
+      <link>https://blog.stardream.online/posts/aedd/</link>
+      <guid>https://blog.stardream.online/posts/aedd/</guid>
+      <pubDate>Sun, 26 Jun 2022 04:50:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/Anime-%E8%A7%A3%E6%9E%90/">Anime 解析</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/%E8%A7%A3%E6%9E%90/">解析</category>
+      
+      <category domain="https://blog.stardream.online/tags/Anime/">Anime</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%B0%91%E5%A5%B3%E2%98%86%E6%AD%8C%E5%89%A7/">少女☆歌剧</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E8%BD%AC%E8%BD%BD/">转载</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/aedd/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】无需解谜一键领取 Steam 2022 夏促徽章</title>
+      <link>https://blog.stardream.online/posts/f51d/</link>
+      <guid>https://blog.stardream.online/posts/f51d/</guid>
+      <pubDate>Sat, 25 Jun 2022 04:43:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/Steam/">Steam</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/Steam/">Steam</category>
+      
+      <category domain="https://blog.stardream.online/tags/F12/">F12</category>
+      
+      <category domain="https://blog.stardream.online/tags/2022/">2022</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%A4%8F%E4%BF%83/">夏促</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/f51d/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记一次跨设备转移+备份</title>
+      <link>https://blog.stardream.online/posts/270c/</link>
+      <guid>https://blog.stardream.online/posts/270c/</guid>
+      <pubDate>Wed, 25 May 2022 04:23:51 GMT</pubDate>
+      
+      <description>过程记录以及一些中间遇到的坎和解决方法</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/Hexo/">Hexo</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/windows/">windows</category>
+      
+      <category domain="https://blog.stardream.online/tags/git/">git</category>
+      
+      <category domain="https://blog.stardream.online/tags/bash/">bash</category>
+      
+      <category domain="https://blog.stardream.online/tags/github/">github</category>
+      
+      <category domain="https://blog.stardream.online/tags/blog/">blog</category>
+      
+      <category domain="https://blog.stardream.online/tags/bug/">bug</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/270c/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】Linux 测速工具 Speedtest-CLI</title>
+      <link>https://blog.stardream.online/posts/204/</link>
+      <guid>https://blog.stardream.online/posts/204/</guid>
+      <pubDate>Tue, 24 May 2022 08:26:46 GMT</pubDate>
+      
+      <description>Linux内安装&amp;使用Speedtest-CLI</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.stardream.online/tags/Speedtest/">Speedtest</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/204/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】利用Grafana和Promethus在群晖搭建BT下载器流量统计面板</title>
+      <link>https://blog.stardream.online/posts/d401/</link>
+      <guid>https://blog.stardream.online/posts/d401/</guid>
+      <pubDate>Sat, 22 Jan 2022 12:15:25 GMT</pubDate>
+      
+      <description>本文将教你如何用Grafana和Promethus搭配订制的exporter在群晖搭建一个用于统计qBittorrent/Deluge/Transmission流量的面板</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      <category domain="https://blog.stardream.online/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.stardream.online/tags/BT/">BT</category>
+      
+      <category domain="https://blog.stardream.online/tags/Grafana/">Grafana</category>
+      
+      <category domain="https://blog.stardream.online/tags/Promethus/">Promethus</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/d401/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】不使用SSH，加速群晖Docker镜像源</title>
+      <link>https://blog.stardream.online/posts/d71a/</link>
+      <guid>https://blog.stardream.online/posts/d71a/</guid>
+      <pubDate>Fri, 19 Nov 2021 11:43:23 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/docker/">docker</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      <category domain="https://blog.stardream.online/tags/synology/">synology</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E9%98%BF%E9%87%8C%E4%BA%91/">阿里云</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/d71a/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】群晖the lounge docker-配置IRC 24小时在线并水IRC</title>
+      <link>https://blog.stardream.online/posts/28c8/</link>
+      <guid>https://blog.stardream.online/posts/28c8/</guid>
+      <pubDate>Fri, 19 Nov 2021 10:32:25 GMT</pubDate>
+      
+      <description>氵氵更健康</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/docker/">docker</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      <category domain="https://blog.stardream.online/tags/synology/">synology</category>
+      
+      <category domain="https://blog.stardream.online/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.stardream.online/tags/irc/">irc</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/28c8/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】PT盒子搭建，以及全自动下载删除教程（保姆级）</title>
+      <link>https://blog.stardream.online/posts/f07b/</link>
+      <guid>https://blog.stardream.online/posts/f07b/</guid>
+      <pubDate>Mon, 25 Oct 2021 11:10:32 GMT</pubDate>
+      
+      <description>如何成为一名优秀的刷子（</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/seedbox/">seedbox</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.stardream.online/tags/PT/">PT</category>
+      
+      <category domain="https://blog.stardream.online/tags/Flexget/">Flexget</category>
+      
+      <category domain="https://blog.stardream.online/tags/Deluge/">Deluge</category>
+      
+      <category domain="https://blog.stardream.online/tags/AutoRemove/">AutoRemove</category>
+      
+      <category domain="https://blog.stardream.online/tags/seedbox/">seedbox</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%88%B7%E6%B5%81/">刷流</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/f07b/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】甲骨文云 99%注册通过方法</title>
+      <link>https://blog.stardream.online/posts/a70f/</link>
+      <guid>https://blog.stardream.online/posts/a70f/</guid>
+      <pubDate>Mon, 20 Sep 2021 17:24:32 GMT</pubDate>
+      
+      <description>甲骨文云bug级注册通过方法</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E7%94%B2%E9%AA%A8%E6%96%87%E4%BA%91/">甲骨文云</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/vps/">vps</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E7%94%B2%E9%AA%A8%E6%96%87%E4%BA%91/">甲骨文云</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/a70f/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】UsEac3To GUI + Mkvtoolnix 制作 Remux</title>
+      <link>https://blog.stardream.online/posts/4301/</link>
+      <guid>https://blog.stardream.online/posts/4301/</guid>
+      <pubDate>Sat, 04 Sep 2021 21:05:23 GMT</pubDate>
+      
+      <description>使用 UsEac3To GUI + Mkvtoolnix 快速制作 Remux</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E5%8E%8B%E5%88%B6/">压制</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/Encode/">Encode</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E5%8E%8B%E5%88%B6/">压制</category>
+      
+      <category domain="https://blog.stardream.online/tags/Remux/">Remux</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/4301/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】IYUUPlus安装篇--群晖docker</title>
+      <link>https://blog.stardream.online/posts/aad5/</link>
+      <guid>https://blog.stardream.online/posts/aad5/</guid>
+      <pubDate>Wed, 11 Aug 2021 21:23:57 GMT</pubDate>
+      
+      <description>群晖docker安装IYUUPlus</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/docker/">docker</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E7%BE%A4%E6%99%96/">群晖</category>
+      
+      <category domain="https://blog.stardream.online/tags/IYUU%E8%87%AA%E5%8A%A8%E8%BE%85%E7%A7%8D%E5%B7%A5%E5%85%B7/">IYUU自动辅种工具</category>
+      
+      <category domain="https://blog.stardream.online/tags/IYUUPlus/">IYUUPlus</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/aad5/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【搬运】EAC (Exact Audio Copy) 配置与抓轨指南 (Windows)</title>
+      <link>https://blog.stardream.online/posts/5a9/</link>
+      <guid>https://blog.stardream.online/posts/5a9/</guid>
+      <pubDate>Thu, 05 Aug 2021 18:09:31 GMT</pubDate>
+      
+      <description>快速学会使用EAC抓取分轨FLAC</description>
+      
+      
+      
+      
+      <category domain="https://blog.stardream.online/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blog.stardream.online/tags/EAC/">EAC</category>
+      
+      <category domain="https://blog.stardream.online/tags/CD/">CD</category>
+      
+      <category domain="https://blog.stardream.online/tags/WIN/">WIN</category>
+      
+      <category domain="https://blog.stardream.online/tags/FLAC/">FLAC</category>
+      
+      <category domain="https://blog.stardream.online/tags/%E6%8A%93%E8%BD%A8/">抓轨</category>
+      
+      
+      <comments>https://blog.stardream.online/posts/5a9/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

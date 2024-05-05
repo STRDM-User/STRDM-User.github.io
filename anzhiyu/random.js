@@ -1,0 +1,3 @@
+var posts=["posts/2022/","posts/2022Japan/","posts/K-ON!/","posts/undefined/","posts/aad5/","posts/4301/","posts/d71a/","posts/204/","posts/5a9/","posts/d401/","posts/f51d/","posts/f07b/","posts/a70f/","posts/1abe/","posts/28c8/","posts/safego/","posts/270c/","posts/AMAD/","posts/b700/","posts/aedd/"];function toRandomPost(){
+    pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
+  };
