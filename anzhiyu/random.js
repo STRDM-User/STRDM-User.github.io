@@ -1,3 +1,3 @@
-var posts=["posts/2022Japan/","posts/2022/","posts/K-ON!/","posts/undefined/","posts/204/","posts/5a9/","posts/aad5/","posts/f07b/","posts/f51d/","posts/d71a/","posts/d401/","posts/4301/","posts/a70f/","posts/1abe/","posts/b700/","posts/discord-presence-roon/","posts/aedd/","posts/safego/","posts/28c8/","posts/AMAD/","posts/270c/","posts/Stagecrowd-DRM/"];function toRandomPost(){
+var posts=["posts/2022/","posts/2022Japan/","posts/undefined/","posts/f07b/","posts/K-ON!/","posts/aad5/","posts/5a9/","posts/204/","posts/4301/","posts/d71a/","posts/f51d/","posts/d401/","posts/1abe/","posts/a70f/","posts/28c8/","posts/safego/","posts/b700/","posts/discord-presence-roon/","posts/bd-key-decrypt/","posts/aedd/","posts/AMAD/","posts/Stagecrowd-DRM/","posts/270c/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
