@@ -422,7 +422,7 @@
             <div class="go-box"></div>
           </div>
           <div class="footer flex-footer">
-            ©2021-2025
+            ©2021-<span id="current-year">2025</span>
             <a href="https://blog.lolihouse.top" class="blog-name"
               ><span>博客名称</span></a
             >
@@ -613,7 +613,8 @@
           title = document.querySelector("title"),
           iconFavicon = document.querySelector(".icon-favicon"),
           blogName = document.querySelectorAll(".blog-name"),
-          blogDescription = document.querySelector(".blog-description");
+          blogDescription = document.querySelector(".blog-description"),
+          currentYear = document.querySelector("#current-year");
 
         // 初始化：标题，favicon，博客名称，博客描述
         title.textContent = config.title;
@@ -622,6 +623,7 @@
           element.textContent = config.blogName;
         });
         blogDescription.textContent = config.blogDescription;
+        if (currentYear) currentYear.textContent = new Date().getFullYear();
 
         // 根据地址栏参数判断是下载地址还是纯外链，外链则直接修改a标签按钮url，用户点击跳转
         if (getLinkUrl && !getLinkUrl.isDownload) {
